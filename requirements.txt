@@ -1,2 +1,6 @@
 pydub
 ffmpeg
+librosa
+scipy
+matplotlib
+ffmpeg-python
