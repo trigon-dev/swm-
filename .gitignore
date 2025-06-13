@@ -1,0 +1,24 @@
+# Audio files you generate (you may want to ignore these to avoid bloating your repository):
+*.wav
+*.mp3
+*.png
+
+# Python cache files:
+__pycache__/
+*.py[cod]
+
+# OS-specific files:
+.DS_Store
+Thumbs.db
+
+# Environment files:
+venv/
+.env/
+*.venv/
+.env.local
+
+# Jupyter notebook checkpoints:
+.ipynb_checkpoints/
+
+# FFmpeg cache or config files:
+.ffmpeg/
